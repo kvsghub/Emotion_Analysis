@@ -2,6 +2,8 @@
 *.h5
 *.keras
 *.dat
+*.zip
 
 data/
 venv/
+shape_predictor_68_face_landmarks.dat/
