@@ -1,0 +1,6 @@
+# Ignore all .h5 model files
+*.h5
+*.keras
+*.dat
+
+data/
