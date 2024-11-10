@@ -4,6 +4,11 @@
 *.dat
 *.zip
 
+# Ignore the 'data' folder
 data/
+
+# Ignore venv folder
 venv/
-shape_predictor_68_face_landmarks.dat/
+
+# Ignore specific file
+shape_predictor_68_face_landmarks.dat.zip
